@@ -1,20 +1,20 @@
 body {
-      background-color: slateblue; 
-      color: #031B3F; 
-      font-family: arial, helvetica, sans-serif; 
-      padding:15px; 
-      line-height:1.4em
-      }
+    background-color: lightcyan;
+    color: #e0ffff;
+    font-family: arial, helvetica, sans-serif;
+    padding: 15px;
+    line-height: 1.4em
+}
 figure {
     width: 30%;
-  background-color: orange;   
+    background-color: blue;
 }
 img {
     width: 50%;
-  margin-left:25%;
-    
+    margin-left: 25%;
+
 }
 figcaption {
-color:white;
-margin-left:15%;
+    color: white;
+    margin-left: 15%;
 }
