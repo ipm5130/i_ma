@@ -1,6 +1,7 @@
 body {
     background-color: white;
-    color: #FFFFFF;
+    background-image: url("C:\Users\Iryna\Documents\GitHub\i_ma\docs\images\webpageback.png")
+    color: #FFFFFF   
     font-family: arial, helvetica, sans-serif;
     padding: 15px;
     line-height: 1.4em
@@ -15,6 +16,4 @@ p {
 h1 {
    color: #000000;
 }
-a {
-    width: 5%;
-}
+
